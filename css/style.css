@@ -18,7 +18,7 @@ ul {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: linear-gradient(to bottom, #232327a8, #af9e9ee1),
-    url('/img/Back1.png');
+    url('../img/Back1.png');
     height: 100vh;
     }
     
@@ -266,7 +266,7 @@ header p {
     -o-border-radius: 10px;
 }
 .bav {
-    background-image: url('/img/Colorcard-hex_ffc107-www.colorbook.io.png');    
+    background-image: url('../img/Colorcard-hex_ffc107-www.colorbook.io.png');    
 }
 iframe {
     filter: invert(100%);
@@ -323,7 +323,7 @@ header p {
 }
 
 .Gallary {
-    background : url('../img/Colorcard-hex_ffc107-www.colorbook.io.png');
+    background : url('..../img/Colorcard-hex_ffc107-www.colorbook.io.png');
     height: 100vh;
 }
 
@@ -491,7 +491,7 @@ header p {
 
 
 footer {
-    background : url('/img/Colorcard-hex_ffc107-www.colorbook.io.png'); 
+    background : url('../img/Colorcard-hex_ffc107-www.colorbook.io.png'); 
 }
 .GithubLink:hover {
     color: black !important;
